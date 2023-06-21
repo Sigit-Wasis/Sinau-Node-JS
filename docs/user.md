@@ -10,7 +10,7 @@ Request Body :
 {
     "username" : "embuncode",
     "password" : "password",
-    "name" : "Programmer Zaman Now"
+    "name" : "Sigit Wasis Subekti"
 }
 ```
 
